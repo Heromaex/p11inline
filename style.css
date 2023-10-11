@@ -18,7 +18,7 @@ header h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #8ca1f5;
-  size: 300%;
+  font-size: 300%;
 }
 
 .menu-container {
