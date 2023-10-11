@@ -20,3 +20,8 @@ header h1 {
   color: #8ca1f5;
   size: 300%;
 }
+
+.menu-container {
+  display: inline-block;
+  cursor: pointer;
+}
